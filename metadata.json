@@ -1,0 +1,6 @@
+{
+  "name": "Grocery - Fresh Organic Store",
+  "description": "A responsive organic grocery e-commerce store featuring fresh vegetables, daily best sells, featured categories, and deals of the day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
